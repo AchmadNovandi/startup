@@ -7134,6 +7134,14 @@ blockquote.ms-blockquote footer {
     color: #e4405f
 }
 
+.btn-circle.btn-android {
+    color: #0adc0a
+}
+
+.btn-circle.btn-apple {
+    color: #ffcad4
+}
+
 .btn-circle.btn-instagram:before {
     background-color: #e4405f
 }
@@ -12759,7 +12767,7 @@ pre.line-numbers>code {
 
 .ms-hero.ms-hero-material {
     color: #f5f5f5;
-    background-color: #577d86;
+    background-color: #7ab7c5;
     /*min-height: 450px;*/
     position: relative;
     width: 100%;
@@ -16173,7 +16181,7 @@ a.thumbnail:focus {
 }
 
 .ms-footbar {
-    background-color: #607d8b;
+    background-color: #03a9f4;
     color: #eee;
     position: relative;
     margin-top: 40px;
@@ -16252,7 +16260,7 @@ a.thumbnail:focus {
 }
 
 .ms-footer-alt-color {
-    background-color: #455a64
+    background-color: #03a9f4
 }
 
 .ms-input-subscribe {
@@ -16356,7 +16364,7 @@ a.thumbnail:focus {
 .ms-footbar-social a {
     margin: 0 0 10px 10px;
     margin: 0 0 1rem 1rem;
-    background-color: #455a64;
+    background-color: #0287c3;
     color: #f5f5f5!important
 }
 
